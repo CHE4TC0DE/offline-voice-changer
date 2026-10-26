@@ -264,4 +264,4 @@ registry entry and no background service.
 
 ---
 
-*offline-voice-changer · Updated 2026-10-25 · Shared under the MIT License*
+*offline-voice-changer · Updated 2026-10-26 · Shared under the MIT License*
